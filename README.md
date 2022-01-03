@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ### Olá! Eu sou Renê Azevedo. 🖐️
-[Meu contato de Email](reneazg.rj@gmail.com
-)<br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXKZAoB4H85xGRz4a5dHjgQ)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-azevedo-agostinho)
@@ -33,6 +31,3 @@ Apaixonado por tecnologia.
     - Animação e efeitos
 - Javascript
     - Javascript iniciante/avançado
-
-[Meu contato de Email](reneazg.rj@gmail.com
-)<br/>
