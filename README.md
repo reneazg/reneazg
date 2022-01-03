@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá! Eu sou O Renê Azevedo. 🖐️
+### Olá! Eu sou Renê Azevedo. 🖐️
 [Meu contato de Email](reneazg.rj@gmail.com
 )<br/>
 
